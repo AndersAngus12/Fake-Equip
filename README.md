@@ -1,4 +1,1 @@
-# PLEASE USE ROBLOX EXPLOIT IF YOU HAVE THE SCRIPT
-
-# Fake Equip
-
+Nothing here

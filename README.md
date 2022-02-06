@@ -1,2 +1,3 @@
 # Fake-Equip
-S
+
+Fake Equip Script

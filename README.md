@@ -1,3 +1,4 @@
-# Fake-Equip
+# PLEASE USE ROBLOX EXPLOIT IF YOU HAVE THE SCRIPT
 
-Fake Equip Script
+# Fake Equip
+

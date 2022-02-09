@@ -9,3 +9,9 @@ Free Fake Pet Spawner, Enjoy!
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/AndersAngus12/Fake-Equip/main/FakePetSpawnerPSX.lua",true))()
 ```
+**Pet Simulator X Auto Farm**<br>
+Free Auto Farm, Enjoy!
+<br>
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AndersAngus12/Fake-Equip/main/OPAutoFarmPSX.lua",true))()
+```

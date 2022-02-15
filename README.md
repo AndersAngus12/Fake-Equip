@@ -1,3 +1,13 @@
+**Pet Simulator X Fake Hatcher**<br>
+Free Fake Hatcher, Enjoy!
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AndersAngus12/Fake-Equip/main/FakeHatcherPSX.lua",true))()
+```
+**Pet Simulator X Fake Equip**<br>
+Free Fake Equip, Enjoy!
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AndersAngus12/Fake-Equip/main/FakeEquipPSX",true))()
+```
 **Pet Simulator X Fake Equip and Fake Hatcher**<br>
 Free Fake Equip and Fake Hatcher, Enjoy!
 ```lua
